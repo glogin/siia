@@ -1,0 +1,13 @@
+*{overflow:hidden}
+.encabezado{background-color:#f00;}
+.encabezado p{text-align:center;font-weight:bold;color:#fff}
+.encabezado .logomich{height:115px;background-color:#fff}
+.encabezado .logogob{height:115px;background-color:#fff}
+.menu{color:#000;background-color:#d3d3d3;top:115px;height:100%}
+.menu li{color:#000;}
+.menu li:hover ul{position:relative;left:0}
+.contenedor{top:115px;height:100%}
+.cuerpo{height:100%;background-image:-webkit-gradient(linear,right bottom,right top,color-stop(.37,#fcefef),color-stop(.78,#fa9b9b),color-stop(1,#f00));background-image:-o-linear-gradient(top,#fcefef 37%,#fa9b9b 78%,#f00 100%);background-image:-moz-linear-gradient(top,#fcefef 37%,#fa9b9b 78%,#f00 100%);background-image:-webkit-linear-gradient(top,#fcefef 37%,#fa9b9b 78%,#f00 100%);background-image:-ms-linear-gradient(top,#fcefef 37%,#fa9b9b 78%,#f00 100%);background-image:linear-gradient(to top,#fcefef 37%,#fa9b9b 78%,#f00 100%);padding-left:0}
+.first{padding-right:0}
+.centrado{float:none;position:absolute;top:30%;left:30%;width:30%}
+.note{background-color:#fff;padding:10px 0;color:#333;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;box-shadow:0 1px 1px 0 rgba(0,0,0,0.9);-moz-box-shadow:0 1px 1px 0 rgba(0,0,0,0.9);-webkit-box-shadow:0 1px 1px 0 rgba(0,0,0,0.9)}
